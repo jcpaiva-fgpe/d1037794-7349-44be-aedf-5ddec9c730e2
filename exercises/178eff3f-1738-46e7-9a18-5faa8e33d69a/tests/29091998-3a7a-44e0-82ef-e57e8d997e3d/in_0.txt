@@ -1,1 +1,0 @@
-<STORY>    <title>The little XMLer</title>    <context></context>   <problem></problem>   <THREADS>     <EPISODE>       <subgoal>I have to do it ...</subgoal>       <ATTEMPT>         <action></action>       </ATTEMPT>       <result></result>     </EPISODE>   </THREADS>   <moral></moral>   <INFOS>   </INFOS>  </STORY>
