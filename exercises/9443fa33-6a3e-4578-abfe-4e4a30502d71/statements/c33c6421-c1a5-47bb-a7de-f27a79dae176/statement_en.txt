@@ -1,0 +1,1 @@
+Taking into account the provided XML file as an example of a valid one, create a DTD that satisfies the following rules.
