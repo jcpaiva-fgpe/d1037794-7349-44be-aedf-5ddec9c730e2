@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<-- You allowed "members" to be removed and it's mandatory-->
+<KA226 project_name="JuezLTI">
+	<meetings>
+		<meeting date="2021-06-10" country="es" city="Cartagena"/>
+		<meeting date="2021-11-25" country="pt" city="Porto"/>
+	</meetings>
+</KA226>
