@@ -1,0 +1,1 @@
+<!ELEMENT KA226 ANY>
