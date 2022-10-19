@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<-- Root named "foo" has been allowed-->
+<foo project_name="JuezLTI"><members>
+		<member country="tr">Bursa Il MEM</member>
+		<member country="es">CIFP Carlos III</member>
+		<member country="es">Entornos de formaciÃ³n</member>
+		<member country="pt">INESC TEC</member>
+		<member country="se">Karlstad University</member>
+	</members>
+	<meetings>
+		<meeting date="2021-06-10" country="es" city="Cartagena"/>
+		<meeting date="2021-11-25" country="pt" city="Porto"/>
+	</meetings>
+</foo>
