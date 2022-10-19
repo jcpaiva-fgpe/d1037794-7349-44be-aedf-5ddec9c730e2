@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<-- You avoided "meetings" to be removed and it's optional-->
+<KA226 project_name="JuezLTI">
+	<members>
+		<member country="tr">Bursa Il MEM</member>
+		<member country="es">CIFP Carlos III</member>
+		<member country="es">Entornos de formaciÃ³n</member>
+		<member country="pt">INESC TEC</member>
+		<member country="se">Karlstad University</member>
+	</members>
+</KA226>
